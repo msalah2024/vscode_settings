@@ -1,0 +1,87 @@
+{
+    "editor.fontFamily": "'JetBrainsMono Nerd Font', 'Droid Sans Mono', 'monospace', monospace, MesloLGS NF, 'MesloLGS NF'",
+    "files.autoSave": "afterDelay",
+    "git.suggestSmartCommit": false,
+    "cSpell.userWords": [
+        "Appointly",
+        "downvoted",
+        "ilike",
+        "Microlink",
+        "QUCC",
+        "QUESPORTSCLUB",
+        "Saidit",
+        "saiditors",
+        "Salah's",
+        "supabase",
+        "upvotes"
+    ],
+    "editor.minimap.enabled": false,
+    "liveServer.settings.donotShowInfoMsg": true,
+    "liveServer.settings.AdvanceCustomBrowserCmdLine": "",
+    "json.schemas": [],
+    "liveServer.settings.ChromeDebuggingAttachment": false,
+    "explorer.confirmDragAndDrop": false,
+    "livePreview.customExternalBrowser": "Chrome",
+    "liveServer.settings.CustomBrowser": "firefox",
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.inlineSuggest.enabled": true,
+    "git.ignoreMissingGitWarning": true,
+    "git.openRepositoryInParentFolders": "never",
+    "liveServer.settings.donotVerifyTags": true,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "github.copilot.enable": {
+        "*": false,
+        "plaintext": false,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false,
+        "c": false,
+        "javascript": true
+    },
+    "explorer.confirmDelete": false,
+    "prettier.tabWidth": 4,
+    "redhat.telemetry.enabled": false,
+    "workbench.iconTheme": "material-icon-theme",
+    // "[javascript]": {
+    //     "editor.defaultFormatter": "esbenp.prettier-vscode"
+    // },
+    "cmake.configureOnOpen": true,
+    "workbench.startupEditor": "none",
+    "workbench.statusBar.visible": false,
+    "breadcrumbs.enabled": false,
+    "editor.lineNumbers": "relative",
+    "extensions.experimental.affinity": {
+        "asvetliakov.vscode-neovim": 1
+    },
+    "python.defaultInterpreterPath": "C:\\Python312\\python.exe",
+    "window.commandCenter": false,
+    "workbench.activityBar.location": "top",
+    "editor.formatOnSave": true,
+    // "editor.defaultFormatter": "esbenp.prettier-vscode",
+    "workbench.layoutControl.enabled": false,
+    "git.autofetch": true,
+    "workbench.colorTheme": "Tokyo Night Dark Enhanced",
+    "workbench.editor.enablePreview": false,
+    "workbench.sideBar.location": "right",
+    "vim.useSystemClipboard": true,
+    "typescript.updateImportsOnFileMove.enabled": "always",
+    "window.menuBarVisibility": "compact",
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[jsonc]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "security.allowedUNCHosts": ["wsl.localhost"],
+    "[typescript]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "[css]": {
+        "editor.defaultFormatter": "vscode.css-language-features"
+    },
+    "tailwindCSS.experimental.classRegex": ["class:\\s*?[\"'`]([^\"'`]*).*?,"],
+    "github.copilot.advanced": {},
+    "[javascript]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    }
+}
